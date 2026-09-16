@@ -27,7 +27,7 @@ I am a Physical Science undergraduate specializing in the intersection of **Adva
 ### Professional Contact 
 I am always open to discussing academic research, data modeling collaborations, or software development opportunities.
 
-- 💼 **LinkedIn:** [://linkedin.com](www.linkedin.com/in/rn0715) 
+- 💼 **LinkedIn:** (www.linkedin.com/in/rn0715) 
 - 📧 **Email:** reshananethmini15@gmail.com
 - 📍 **Location:** Colombo, Sri Lanka
 
