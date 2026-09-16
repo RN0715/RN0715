@@ -1,37 +1,34 @@
-# Hi there, I'm Nethmini! 👋
+# Hi, I'm Nethmini! 👋
 
-### 🔬 Undergraduate at the University of Colombo | Faculty of Science (Level 1)
-I am a Physical Science undergraduate deep-diving into the intersection of **Advanced Mathematics, Scientific Computing, and Data Automation**. I leverage computational logic to transform mathematical models into structured, clean, and efficient code.
-
----
-
-### 🚀 What I'm Focused On Right Now (Level 1 Break)
-- 🐍 **Computational Mathematics (AM 1015):** Building numerical computing scripts using **Python (NumPy, Matplotlib)**.
-- ⚙️ **Computational Science (CS 1201):** Mastering memory management, data structures, and foundational algorithms using **C**.
-- 📄 **Technical Writing:** Shifting my lab documentation and mathematical indexing entirely to **LaTeX**.
+### 🔬 Undergraduate | Faculty of Science, University of Colombo (UOC)
+I am a Physical Science undergraduate specializing in the intersection of **Advanced Mathematics, Scientific Computing, and Data Automation**. My focus lies in translating complex mathematical frameworks and numerical models into structured, high-performance computational code.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 💻 Technical Expertise & Tooling
 
-| Category | Tools & Languages |
+| Core Domains | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | Python, C, JavaScript, HTML5/CSS3 |
-| **Mathematics & Data** | NumPy, Matplotlib, Google Apps Script |
-| **Document Formatting**| LaTeX, Overleaf |
-| **Version Control** | Git, GitHub |
+| **Programming Languages** | Python, C, JavaScript, HTML5 / CSS3 |
+| **Mathematical Computing** | NumPy, Matplotlib, Numerical Optimization Foundations |
+| **Automation & Workflows** | Google Apps Script, Systems Automation, Git / GitHub |
+| **Scientific Documenting** | LaTeX, Overleaf Typesetting |
 
 ---
 
+### 📊 Highlighted Technical Projects
 
-### 📊 Featured Projects & Repositories
-
-- 🌐 [RNC Media Solutions](https://github.com) - A premium, responsive business portfolio website built featuring a modern cinematic UI, custom brand activations, and fluid frontend architectures.
-- 🐍 [python-file-automation](https://github.com) - Script designed to optimize local directory management and structural developer workflows.
-- 🗓️ [Check-in-Webpage](https://github.com) - Event-driven data entry management system for robust attendee tracking metrics.
+- 🌐 **[RNC Media Solutions](https://github.com)** – A premium, production-ready corporate portfolio landing page featuring modern responsive layouts and dynamic frontend logic.
+- 🐍 **[python-file-automation](https://github.com)** – An automation codebase designed to optimize local file management structures and developer workflows.
+- 🗓️ **[Check-in-Webpage](https://github.com)** – An event-driven data entry management system tracking real-time entry and validation metrics.
 
 ---
 
-### 🤝 Let's Connect!
-- 💼 **LinkedIn:** [://linkedin.com]*(www.linkedin.com/in/rn0715)
+### Professional Contact 
+I am always open to discussing academic research, data modeling collaborations, or software development opportunities.
+
+- 💼 **LinkedIn:** [://linkedin.com](www.linkedin.com/in/rn0715) 
 - 📧 **Email:** reshananethmini15@gmail.com
+- 📍 **Location:** Colombo, Sri Lanka
+
+
